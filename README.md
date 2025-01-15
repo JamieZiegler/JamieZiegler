@@ -3,7 +3,7 @@
 - 🌱 I have recently finished courses in HTML, CSS, C#, JavaScript and SQL. Currently I'm learning more C#, TDD, OOP, SQL as well as Razor Pages and more.
 - 📫 How to reach me; Here or on email - info@jamziewebdev.net
 - ⚡ Fun fact: I had no clue about programming and web dev 1.5 years ago, now I can do 12 hours straight because I just love it so much.
-- 🔎 If you want to see more of my work, my website www.jamziewebdev.net is usually a good place for it, although it is currently not displaying much more than a short message.
+- 🔎 If you want to see more of my work, my website www.jamziewebdev.net is usually a good place for it.
 
 <!---
 Jamziewebdev/Jamziewebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
