@@ -36,52 +36,52 @@ _This is a, perhaps not so technically advanced, but highly successful, website 
   <tr>
     <td align="center" valign="top">
       <h3>&emsp;&emsp;&emsp;🌐 Ecosystem & Core&emsp;&emsp;&emsp;&emsp;</h3>
-      <img src="https://img.shields.io/badge/odoo-%23714B67.svg?style=flat&logo=odoo&logoColor=white" alt="Odoo" />
+      <img src="https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat&logo=odoo&logoColor=white" alt="Odoo" />
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
     </td>
     <td align="center" valign="top">
       <h3>&emsp;&emsp;&emsp;&emsp;💻 Languages&emsp;&emsp;&emsp;&emsp;&emsp;</h3>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/xml-%2300609C.svg?style=flat&logoColor=white" alt="XML" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/XML-%2300609C.svg?style=flat&logoColor=white" alt="XML" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <h3>🖥️ Frontend & Styling</h3>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/owl-%23714B67.svg?style=flat&logoColor=white" alt="OWL" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=flat&logo=sass&logoColor=white" alt="SCSS" />
-      <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/OWL-%23714B67.svg?style=flat&logoColor=white" alt="OWL" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Scss-%23CC6699.svg?style=flat&logo=sass&logoColor=white" alt="SCSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Tailwindcss-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
     </td>
     <td align="center" valign="top">
       <h3>🗄️ Databases</h3>
-      <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/mssql-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-      <img src="https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MsSQL-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+      <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <h3>🎨 Design & Graphics</h3>
-      <img src="https://img.shields.io/badge/adobe%20cc-%23DA1F26.svg?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="GIMP" />
-      <img src="https://img.shields.io/badge/inkscape-%23000000.svg?style=flat&logo=inkscape&logoColor=white" alt="Inkscape" />
-      <img src="https://img.shields.io/badge/krita-%233BAAF8.svg?style=flat&logo=krita&logoColor=white" alt="Krita" />
-      <img src="https://img.shields.io/badge/scribus-%231E90FF.svg?style=flat&logoColor=white" alt="Scribus" />
+      <img src="https://img.shields.io/badge/Adobe%20CS-%23DA1F26.svg?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="GIMP" />
+      <img src="https://img.shields.io/badge/Inkscape-%23000000.svg?style=flat&logo=inkscape&logoColor=white" alt="Inkscape" />
+      <img src="https://img.shields.io/badge/Krita-%233BAAF8.svg?style=flat&logo=krita&logoColor=white" alt="Krita" />
+      <img src="https://img.shields.io/badge/Scribus-%231E90FF.svg?style=flat&logoColor=white" alt="Scribus" />
     </td>
     <td align="center" valign="top">
       <h3>🛠️ Tools & Management</h3>
-      <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=flat&logo=jira&logoColor=white" alt="Jira" />
-      <img src="https://img.shields.io/badge/trello-%230052CC.svg?style=flat&logo=trello&logoColor=white" alt="Trello" />
-      <img src="https://img.shields.io/badge/ms%20office-%23D83B01.svg?style=flat&logo=microsoftoffice&logoColor=white" alt="MS Office" />
-      <img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
+      <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=flat&logo=trello&logoColor=white" alt="Trello" />
+      <img src="https://img.shields.io/badge/MS%20Office-%23D83B01.svg?style=flat&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+      <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
     </td>
   </tr>
 </table>
