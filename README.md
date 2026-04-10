@@ -15,7 +15,7 @@ I am just about to graduate as a fullstack developer from a two-year vocational 
 
 ---
 
-### 📣 My proudest projects to date are:
+### 📣 My proudest projects:
 
 > [Odoo-l10n_se_payroll](https://github.com/vertelab/odoo-l10n_se_payroll):
 _A Swedish Odoo-payroll module which I had the opportunity to spend the better part of my last 4-month internship period updating and developing. It now conforms with Odoo 18, as well as current Swedish salary laws and regulations._
