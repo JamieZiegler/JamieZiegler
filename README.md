@@ -7,9 +7,9 @@ I am just about to graduate as a fullstack developer from a two-year vocational 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamie-ziegler/"><img src="https://img.shields.io/badge/LinkedIn-jamie--ziegler-%2306B6D4?style=flat" alt="LinkedIn" height="30"></a>
-  <a href="https://www.jamziewebdev.net"><img src="https://img.shields.io/badge/Portfolio-jamziewebdev.net-%2306B6D4?style=flat" alt="Website" height="30"></a>
-  <a href="mailto:info@jamziewebdev.net"><img src="https://img.shields.io/badge/Email-info@jamziewebdev.net-%2306B6D4?style=flat" alt="Email" height="30"></a>
+  <a href="https://www.linkedin.com/in/jamie-ziegler/"><img src="https://img.shields.io/badge/LinkedIn-James%20Ziegler-%2395fa5e?style=flat" alt="LinkedIn" height="30"></a>
+  <a href="https://www.jamziewebdev.net"><img src="https://img.shields.io/badge/Portfolio-jamziewebdev.net-%23a468ff?style=flat" alt="Website" height="30"></a>
+  <a href="mailto:info@jamziewebdev.net"><img src="https://img.shields.io/badge/Email-info@jamziewebdev.net-%23ffbb33?style=flat" alt="Email" height="30"></a>
 </p>
 <br>
 
