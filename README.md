@@ -50,7 +50,7 @@ _This is a, perhaps not so technically advanced, but highly successful, website 
   </tr>
   <tr>
     <td align="center" valign="top">
-      <h3>&emsp;&emsp;🖥️ Frontend & Styling&emsp;&emsp;&emsp;</h3>
+      <h3>🖥️ Frontend & Styling</h3>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
       <img src="https://img.shields.io/badge/owl-%23714B67.svg?style=flat&logoColor=white" alt="OWL" />
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -60,7 +60,7 @@ _This is a, perhaps not so technically advanced, but highly successful, website 
       <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
     </td>
     <td align="center" valign="top">
-      <h3>&emsp;&emsp;&emsp;&emsp;🗄️ Databases&emsp;&emsp;&emsp;&emsp;&emsp;</h3>
+      <h3>🗄️ Databases</h3>
       <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/mssql-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
       <img src="https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -68,7 +68,7 @@ _This is a, perhaps not so technically advanced, but highly successful, website 
   </tr>
   <tr>
     <td align="center" valign="top">
-      <h3>&emsp;&emsp;&emsp;🎨 Design & Graphics&emsp;&emsp;&emsp;&emsp;</h3>
+      <h3>🎨 Design & Graphics</h3>
       <img src="https://img.shields.io/badge/adobe%20cc-%23DA1F26.svg?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="GIMP" />
@@ -77,7 +77,7 @@ _This is a, perhaps not so technically advanced, but highly successful, website 
       <img src="https://img.shields.io/badge/scribus-%231E90FF.svg?style=flat&logoColor=white" alt="Scribus" />
     </td>
     <td align="center" valign="top">
-      <h3>&emsp;&emsp;&emsp;🛠️ Tools & Management&emsp;&emsp;&emsp;&emsp;</h3>
+      <h3>🛠️ Tools & Management</h3>
       <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=flat&logo=jira&logoColor=white" alt="Jira" />
       <img src="https://img.shields.io/badge/trello-%230052CC.svg?style=flat&logo=trello&logoColor=white" alt="Trello" />
       <img src="https://img.shields.io/badge/ms%20office-%23D83B01.svg?style=flat&logo=microsoftoffice&logoColor=white" alt="MS Office" />
